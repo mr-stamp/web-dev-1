@@ -1,0 +1,34 @@
+body {
+  margin: 0px;
+  font-size: 14px;
+  font-family: 'Happy Monkey', sans-serif;
+  background-color: #CA6452;
+  color: #332725;
+}
+
+
+h1, h2 {
+  font-family: Knewave, sans-serif;
+  font-size: 1.5rem;
+}
+
+div.card {
+  background-color: #49362F;
+  margin-left: 75px;
+  margin-right: 75px;
+  padding: 0.5rem 1rem 0.5rem;
+  border-radius: 8px;
+  border: solid 3px #332725;
+  color: #ddd;
+}
+
+hr {
+  margin-left: 75px;
+  margin-right: 75px;
+  border-color: #332725;
+}
+
+
+
+
+
