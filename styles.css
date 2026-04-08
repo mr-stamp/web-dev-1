@@ -1,7 +1,7 @@
 /* Comment here */
 body {
   font-family: sans-serif;
-  background-color: rgba(100, 255, 180, 0.6);
+  background-color: rgba(100, 255, 180, 0.7);
 }
 
 p, h1, h2 {
@@ -38,9 +38,8 @@ ul li {
   top: 0px;
   left: 0px;
   width: 100vw;
-  height: 100vh;
   z-index: -999;
-  opacity: 0.75;
+  opacity: 0.4;
 }
 
 
