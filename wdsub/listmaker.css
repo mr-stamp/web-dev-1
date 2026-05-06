@@ -1,0 +1,10 @@
+li {
+  list-style-type: none;
+}
+
+li button {
+  background-color: rgba(0,0,0,0);
+  border: 0px;
+  padding-right: 5px;
+}
+
